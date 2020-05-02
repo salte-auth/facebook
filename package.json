@@ -1,6 +1,6 @@
 {
   "name": "@salte-auth/facebook",
-  "version": "1.0.0-rc.1",
+  "version": "3.0.0",
   "main": "dist/facebook.min.js",
   "module": "dist/facebook.min.mjs",
   "types": "dist/facebook.d.ts",
