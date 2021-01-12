@@ -5,11 +5,11 @@ export class Facebook extends OAuth2Provider {
     super(config);
   }
 
-  public get name() {
+  public get name(): string {
     return 'facebook';
   }
 
-  public get login() {
+  public get login(): string {
     return 'https://www.facebook.com/v6.0/dialog/oauth';
   }
 }
